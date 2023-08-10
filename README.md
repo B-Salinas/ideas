@@ -1,2 +1,9 @@
-# ideas
-running list of things that would probably make my life easier if I took the time to build it out
+# Ideas
+
+Inspired by [0xngmi's](https://github.com/0xngmi) [ideas](https://github.com/0xngmi/ideas) repo!
+
+---
+
+### LaTeX
+* Smart Contract Audit Template
+* Bug Bounty Report Template
