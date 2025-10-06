@@ -7,6 +7,18 @@ Disclaimer: I'm not an expert on any of these subjects. I'm sure that if I was, 
 
 -----
 
+# REPO IDEAS #
+
+ -  Chess Engine
+ -  Tic-Tac-Toe-Tie (4D Tic Tac Toe?)
+
+
+
+
+
+
+-----
+
 # CENTRAL PROCESSING UNIT - CPU #
 
 # CONTROL UNIT # 
@@ -19,8 +31,6 @@ Disclaimer: I'm not an expert on any of these subjects. I'm sure that if I was, 
 
 # CLOCK
 
-
-
 # STORAGE
 
 # MEMORY
@@ -29,13 +39,8 @@ Disclaimer: I'm not an expert on any of these subjects. I'm sure that if I was, 
 
 # COMPUTE
 
-
-
 # COMPILER
 
-
-
 # GRAPHICS PROCESSING UNIT - GPU #
-
 
 # SPACETIME
