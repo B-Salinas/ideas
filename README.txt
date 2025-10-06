@@ -11,6 +11,8 @@ Disclaimer: I'm not an expert on any of these subjects. I'm sure that if I was, 
 
  -  Chess Engine
  -  Tic-Tac-Toe-Tie (4D Tic Tac Toe?)
+ -  Tweet From Terminal
+ -  Spotify Lyrics Translator Dual View 
 
 
 
